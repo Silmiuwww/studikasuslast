@@ -8,7 +8,7 @@ public class programkafe {
         {"Teh Tarik", "12000"},
         {"Mie goreng", "18000"}
     };
-    static String [][] pesanan = new String[50][10];
+    static String [][] pesanan = new String[50][5];
     static int jmlPesanan = 0;
 
     public static void main(String[] args) {
