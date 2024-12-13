@@ -25,9 +25,9 @@ public class programkafe {
             sc.nextLine();
 
             if (piliMenu == 1) {
-                
+                tambahkanPesanan();
             }else if (piliMenu == 2) {
-                
+                tampilkanPesanan();
             }else if (piliMenu == 3) {
                 System.out.println("Terimakasih Telah Memesan Pesanan kami");
                 break;
