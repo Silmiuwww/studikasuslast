@@ -2,9 +2,8 @@ import java.util.Scanner;
 
 public class kafe {
 
-    static String [][] menukafe = {
-        {"kopi Hitam", "Latte","Teh Tarik","Mie goreng"}
-    };
+    static String [] menukafe = {"kopi Hitam", "Latte","Teh Tarik","Mie goreng"};
+    static int [] hargamenu = {15000,22000,12000,18000};
     static String [][] pesanan = new String[50][5];
     static int jmlPesanan = 0;
 
